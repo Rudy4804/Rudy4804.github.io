@@ -37,6 +37,7 @@ My GitHub page is http://github.com/Rudy4804.
    This lab was interesting because we were doing coding involving
    real world situations. For part 1, it was nice to continue working
    with averages, but using a situation like olympics score judging.
-   I liked that for part 2, we got to code a schedule for philosophers.
+   I liked that for part 2, we got to code a schedule for philosophers
+   that would work best for both at different times and fit requirements. 
 
 
