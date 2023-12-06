@@ -15,17 +15,21 @@ My GitHub page is http://github.com/Rudy4804.
 
 * Lab 5
 
-   I found doing this lab a little bit fun. I enjoyed both
-   parts of this lab, which is why it’s one of my favorites.
-   I enjoyed working with the code to do the calculations for both parts.
+   I enjoyed both parts of this lab, which is why it’s one
+   of my favorites. I liked how for part 1 we were able to
+   create a code that would find area. I also really enjoyed
+   having to test different functions to see which one works
+   best. 
+   
 
 
 * Lab 8
 
    Both parts of this lab were fun and enjoyable for me. I
    thought part one was interesting because we were able to
-   mess around with different combinations. I thought part 2
-   was fun being able to make a code that would calculate averages.
+   play around with different combinations. I thought part 2
+   was fun because we got to work on code that would calculate
+   averages for us. 
 
 
 * Lab 9
